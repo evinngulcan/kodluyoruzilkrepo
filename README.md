@@ -1,13 +1,16 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+
 ![Capture](https://github.com/evinngulcan/kodluyoruzilkrepo/assets/134440331/c43acd04-cada-4a75-8b3e-0c133a76f81e)
 # Installation
 Öncelikle projeyi clonelayın. 
+
 https://github.com/evinngulcan/kodluyoruzilkrepo
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
 Windows için:
 
 cd kodluyoruzilkrepo
